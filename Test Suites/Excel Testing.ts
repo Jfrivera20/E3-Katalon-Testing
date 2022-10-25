@@ -18,7 +18,7 @@
       <testCaseId>Test Cases/Excel Test 1</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>13a52cda-54c2-4d06-9f75-9a53450e3373</id>
+         <id>957c2e5e-77c5-4a66-a544-50347366111f</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,22 +27,22 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>13a52cda-54c2-4d06-9f75-9a53450e3373</testDataLinkId>
+         <testDataLinkId>957c2e5e-77c5-4a66-a544-50347366111f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Characters</value>
+         <variableId>181d73ff-1f95-4703-9b70-176610169000</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>957c2e5e-77c5-4a66-a544-50347366111f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Symbols</value>
+         <variableId>dab2f443-852e-4020-976c-79a63008ce42</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>957c2e5e-77c5-4a66-a544-50347366111f</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>Numbers</value>
-         <variableId>925502b7-057e-4b2b-a72a-78bb8d901ccd</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>13a52cda-54c2-4d06-9f75-9a53450e3373</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Character</value>
-         <variableId>a8283f2a-813e-4d65-b8ec-c9e79bdafc94</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>13a52cda-54c2-4d06-9f75-9a53450e3373</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Symbol</value>
-         <variableId>34ad7dd7-43d0-47fd-9f15-0fa4593083b4</variableId>
+         <variableId>68fe098f-f92a-4827-811b-fc743493d894</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

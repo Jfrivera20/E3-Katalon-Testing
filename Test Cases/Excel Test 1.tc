@@ -7,7 +7,7 @@
    <testCaseGuid>1bb23470-cbf9-4836-9da4-823e604566d8</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>9cb7f3d3-16a9-4f48-a3bc-ddc07e47aa48</id>
+      <id>f964f29d-594c-439f-838c-0d5e48ff4f87</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
@@ -15,42 +15,42 @@
       <testDataId>Data Files/Excel Files/Rep File</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>9cb7f3d3-16a9-4f48-a3bc-ddc07e47aa48</testDataLinkId>
+      <testDataLinkId>f964f29d-594c-439f-838c-0d5e48ff4f87</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Characters</value>
+      <variableId>181d73ff-1f95-4703-9b70-176610169000</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f964f29d-594c-439f-838c-0d5e48ff4f87</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Symbols</value>
+      <variableId>dab2f443-852e-4020-976c-79a63008ce42</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f964f29d-594c-439f-838c-0d5e48ff4f87</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>Numbers</value>
-      <variableId>925502b7-057e-4b2b-a72a-78bb8d901ccd</variableId>
+      <variableId>68fe098f-f92a-4827-811b-fc743493d894</variableId>
    </variableLinks>
-   <variableLinks>
-      <testDataLinkId>9cb7f3d3-16a9-4f48-a3bc-ddc07e47aa48</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>Character</value>
-      <variableId>a8283f2a-813e-4d65-b8ec-c9e79bdafc94</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId>9cb7f3d3-16a9-4f48-a3bc-ddc07e47aa48</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>Symbol</value>
-      <variableId>34ad7dd7-43d0-47fd-9f15-0fa4593083b4</variableId>
-   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>181d73ff-1f95-4703-9b70-176610169000</id>
+      <masked>false</masked>
+      <name>Characters</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dab2f443-852e-4020-976c-79a63008ce42</id>
+      <masked>false</masked>
+      <name>Symbols</name>
+   </variable>
    <variable>
       <defaultValue>0</defaultValue>
       <description></description>
-      <id>925502b7-057e-4b2b-a72a-78bb8d901ccd</id>
+      <id>68fe098f-f92a-4827-811b-fc743493d894</id>
       <masked>false</masked>
       <name>Numbers</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>a8283f2a-813e-4d65-b8ec-c9e79bdafc94</id>
-      <masked>false</masked>
-      <name>Character</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>34ad7dd7-43d0-47fd-9f15-0fa4593083b4</id>
-      <masked>false</masked>
-      <name>Symbol</name>
    </variable>
 </TestCaseEntity>

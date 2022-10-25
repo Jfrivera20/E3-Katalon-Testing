@@ -17,12 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-if (Character == "c") {
+//Testing Specific Character
+if (Characters == "c") {
     println "Test Passed!";
+}else {
+	assert false
 }
+
+//Testing Length Of Numbers
 if(Numbers.length() == 4) {
 	println "Test Passed!";
+}else {
+	assert false
 }
-if (Symbol == "*" || Symbol == "#" || Symbol == "%" || Symbol == "+" || Symbol == "^" ) {
+
+//Testing Character Type
+if (Symbols == "*" || Symbols == "#" || Symbols == "%" || Symbols == "+" || Symbols == "^" ) {
 	println "Test Passed!";
+}else {
+	assert false
 }

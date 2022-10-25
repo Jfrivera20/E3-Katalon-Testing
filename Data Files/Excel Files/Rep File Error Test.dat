@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Rep File</name>
+   <name>Rep File Error Test</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>d52bd76a-b75f-4625-a813-76ee6fedbb14</dataFileGUID>
+   <dataFileGUID>6ef81c7e-9e7f-4dab-9e8a-5fbb8960ba45</dataFileGUID>
    <dataSourceUrl>C:\Users\justi\Documents\Excel Simple Testing.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Perfect</sheetName>
+   <sheetName>Error</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>
