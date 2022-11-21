@@ -45,4 +45,47 @@
          <variableId>68fe098f-f92a-4827-811b-fc743493d894</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>37703121-78f9-4502-b8cb-7c61c6e93fc6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Excel Test 2</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>aad411e5-a853-4053-b01c-d18cf1f210ff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9ada919c-db0a-4770-b09e-652b267f38f3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>65ecdf30-9c27-4335-8982-3de3325eba34</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>21cdf93b-5de9-4220-ac9e-6800a6afa0a3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7e1ec40e-54f2-4532-b173-f7cacf3ae4f7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8bfab331-e586-4099-acfc-e4e750a4fc0f</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>
